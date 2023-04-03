@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <nombre_producto>aceite</nombre_producto>
+    <adquirido>false</adquirido>
+    <unidades_deseadas>1</unidades_deseadas>
+    <medida>litros</medida>
+    <disponible_en>
+      <nombre>Supermercado Corte Ingles</nombre>
+      <direccion>Calle de Goya, 76, 28009 </direccion>
+      <ciudad>Madrid</ciudad>
+      <geolocalizacion>
+        <latitud>40.424606674711825</latitud>
+        <longitud>-3.6751530329132374</longitud>
+      </geolocalizacion>
+      <productos>
+        <alimentacion_general>
+          <aceites>
+            <aceites_de_oliva>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva_virgen>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen_extra>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_especialidades>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+          </aceites>
+        </alimentacion_general>
+        <alimentacion_general>
+          <aceitunas_y_encurtidos>
+            <aceitunas_rellenas>
+              <id>1</id>
+              <marca>LA ESPAÑOLA</marca>
+              <descripcion>Aceitunas suaves rellenas de anchoa 35% menos de sal lata 150 g neto escurrido</descripcion>
+              <precio_euros>2.25</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas verdes rellenas de anchos Suaves</denominacion>
+              <cantidad_neta>350 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas manzanilla fina verdes aderezadas, , sal, relleno de anchoa 6%(anchoa, estabilizante: alginato sódico), potenciador del sabor:glutamato monosódico, acidulante: ácido cítrico, antioxidante:ácido ascórbico.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_rellenas>
+          </aceitunas_y_encurtidos>
+          <aceitunas_y_encurtidos>
+            <aceitunas_negras>
+              <id>1</id>
+              <marca>SERPIS</marca>
+              <descripcion>Aceitunas negras en rodajas frasco 150 g neto escurrido</descripcion>
+              <precio_euros>1.81</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas negras en rodajas</denominacion>
+              <cantidad_neta>260 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas negras en rodajas, sal, acidulantes (ácido láctico), estabilizante (lactato ferroso) y aromas naturales.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_negras>
+          </aceitunas_y_encurtidos>
+        </alimentacion_general>
+        <alimentacion_general>
+          <ofertas>
+            <id>3</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>5</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>6</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </alimentacion_general>
+      </productos>
+      <productos>
+        <desayunos_dulces_pan>
+          <bolleria_y_pasteleria>
+            <magdalenas_y_mantecadas>
+              <id>1</id>
+              <marca>LA BELLA EASO</marca>
+              <descripcion>Magdalenas envasadas individualmente 16 unidades bolsa 464 g</descripcion>
+              <precio_euros>2.35</precio_euros>
+              <medida>gramos</medida>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </magdalenas_y_mantecadas>
+            <bolleria_artesana>
+              <id>1</id>
+              <marca>CALIDAD ARTESANA</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+            <bolleria_artesana>
+              <id>2</id>
+              <marca>AZCARAY</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+          </bolleria_y_pasteleria>
+        </desayunos_dulces_pan>
+        <desayunos_dulces_pan>
+          <ofertas>
+            <id>1</id>
+            <marca>CALIDAD ARTESANA</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>2</id>
+            <marca>AZCARAY</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </desayunos_dulces_pan>
+      </productos>
+      <productos>
+        <lacteos>
+          <batidos>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </batidos>
+          <leche_y_bebidas_vegetales>
+            <leche_entera>
+              <id>1</id>
+              <marca>ASTURIANA</marca>
+              <descripcion>Leche entera UHT brik 1 l</descripcion>
+              <precio_euros>1.14</precio_euros>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <medidas>litros</medidas>
+              <ingredientes>Leche entera de vaca</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </leche_entera>
+            <leche_semidesnata/>
+            <leche_desnatada/>
+          </leche_y_bebidas_vegetales>
+        </lacteos>
+        <lacteos>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </lacteos>
+      </productos>
+    </disponible_en>
+    <disponible_en>
+      <nombre>Mercadona</nombre>
+      <direccion>Cl. de Ayala, 89, 28006</direccion>
+      <ciudad>Madrid</ciudad>
+      <geolocalizacion>
+        <latitud>40.427414711621736</latitud>
+        <longitud>-3.6728044682140952</longitud>
+      </geolocalizacion>
+      <productos>
+        <alimentacion_general>
+          <aceites>
+            <aceites_de_oliva>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva_virgen>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen_extra>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_especialidades>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+          </aceites>
+        </alimentacion_general>
+        <alimentacion_general>
+          <aceitunas_y_encurtidos>
+            <aceitunas_rellenas>
+              <id>1</id>
+              <marca>LA ESPAÑOLA</marca>
+              <descripcion>Aceitunas suaves rellenas de anchoa 35% menos de sal lata 150 g neto escurrido</descripcion>
+              <precio_euros>2.25</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas verdes rellenas de anchos Suaves</denominacion>
+              <cantidad_neta>350 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas manzanilla fina verdes aderezadas, , sal, relleno de anchoa 6%(anchoa, estabilizante: alginato sódico), potenciador del sabor:glutamato monosódico, acidulante: ácido cítrico, antioxidante:ácido ascórbico.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_rellenas>
+          </aceitunas_y_encurtidos>
+          <aceitunas_y_encurtidos>
+            <aceitunas_negras>
+              <id>1</id>
+              <marca>SERPIS</marca>
+              <descripcion>Aceitunas negras en rodajas frasco 150 g neto escurrido</descripcion>
+              <precio_euros>1.81</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas negras en rodajas</denominacion>
+              <cantidad_neta>260 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas negras en rodajas, sal, acidulantes (ácido láctico), estabilizante (lactato ferroso) y aromas naturales.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_negras>
+          </aceitunas_y_encurtidos>
+        </alimentacion_general>
+        <alimentacion_general>
+          <ofertas>
+            <id>3</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>5</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>6</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </alimentacion_general>
+      </productos>
+      <productos>
+        <desayunos_dulces_pan>
+          <bolleria_y_pasteleria>
+            <magdalenas_y_mantecadas>
+              <id>1</id>
+              <marca>LA BELLA EASO</marca>
+              <descripcion>Magdalenas envasadas individualmente 16 unidades bolsa 464 g</descripcion>
+              <precio_euros>2.35</precio_euros>
+              <medida>gramos</medida>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </magdalenas_y_mantecadas>
+            <bolleria_artesana>
+              <id>1</id>
+              <marca>CALIDAD ARTESANA</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+            <bolleria_artesana>
+              <id>2</id>
+              <marca>AZCARAY</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+          </bolleria_y_pasteleria>
+        </desayunos_dulces_pan>
+        <desayunos_dulces_pan>
+          <ofertas>
+            <id>1</id>
+            <marca>CALIDAD ARTESANA</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>2</id>
+            <marca>AZCARAY</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </desayunos_dulces_pan>
+      </productos>
+      <productos>
+        <lacteos>
+          <batidos>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </batidos>
+          <leche_y_bebidas_vegetales>
+            <leche_entera>
+              <id>1</id>
+              <marca>ASTURIANA</marca>
+              <descripcion>Leche entera UHT brik 1 l</descripcion>
+              <precio_euros>1.14</precio_euros>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <medidas>litros</medidas>
+              <ingredientes>Leche entera de vaca</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </leche_entera>
+            <leche_semidesnata/>
+            <leche_desnatada/>
+          </leche_y_bebidas_vegetales>
+        </lacteos>
+        <lacteos>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </lacteos>
+      </productos>
+    </disponible_en>
+  </row>
+  <row>
+    <nombre_producto>leche entera</nombre_producto>
+    <adquirido>false</adquirido>
+    <unidades_deseadas>1</unidades_deseadas>
+    <medida>litros</medida>
+    <disponible_en>
+      <nombre>Supermercado Corte Ingles</nombre>
+      <direccion>Calle de Goya, 76, 28009 </direccion>
+      <ciudad>Madrid</ciudad>
+      <geolocalizacion>
+        <latitud>40.424606674711825</latitud>
+        <longitud>-3.6751530329132374</longitud>
+      </geolocalizacion>
+      <productos>
+        <alimentacion_general>
+          <aceites>
+            <aceites_de_oliva>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva_virgen>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen_extra>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_especialidades>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+          </aceites>
+        </alimentacion_general>
+        <alimentacion_general>
+          <aceitunas_y_encurtidos>
+            <aceitunas_rellenas>
+              <id>1</id>
+              <marca>LA ESPAÑOLA</marca>
+              <descripcion>Aceitunas suaves rellenas de anchoa 35% menos de sal lata 150 g neto escurrido</descripcion>
+              <precio_euros>2.25</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas verdes rellenas de anchos Suaves</denominacion>
+              <cantidad_neta>350 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas manzanilla fina verdes aderezadas, , sal, relleno de anchoa 6%(anchoa, estabilizante: alginato sódico), potenciador del sabor:glutamato monosódico, acidulante: ácido cítrico, antioxidante:ácido ascórbico.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_rellenas>
+          </aceitunas_y_encurtidos>
+          <aceitunas_y_encurtidos>
+            <aceitunas_negras>
+              <id>1</id>
+              <marca>SERPIS</marca>
+              <descripcion>Aceitunas negras en rodajas frasco 150 g neto escurrido</descripcion>
+              <precio_euros>1.81</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas negras en rodajas</denominacion>
+              <cantidad_neta>260 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas negras en rodajas, sal, acidulantes (ácido láctico), estabilizante (lactato ferroso) y aromas naturales.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_negras>
+          </aceitunas_y_encurtidos>
+        </alimentacion_general>
+        <alimentacion_general>
+          <ofertas>
+            <id>3</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>5</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>6</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </alimentacion_general>
+      </productos>
+      <productos>
+        <desayunos_dulces_pan>
+          <bolleria_y_pasteleria>
+            <magdalenas_y_mantecadas>
+              <id>1</id>
+              <marca>LA BELLA EASO</marca>
+              <descripcion>Magdalenas envasadas individualmente 16 unidades bolsa 464 g</descripcion>
+              <precio_euros>2.35</precio_euros>
+              <medida>gramos</medida>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </magdalenas_y_mantecadas>
+            <bolleria_artesana>
+              <id>1</id>
+              <marca>CALIDAD ARTESANA</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+            <bolleria_artesana>
+              <id>2</id>
+              <marca>AZCARAY</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+          </bolleria_y_pasteleria>
+        </desayunos_dulces_pan>
+        <desayunos_dulces_pan>
+          <ofertas>
+            <id>1</id>
+            <marca>CALIDAD ARTESANA</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>2</id>
+            <marca>AZCARAY</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </desayunos_dulces_pan>
+      </productos>
+      <productos>
+        <lacteos>
+          <batidos>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </batidos>
+          <leche_y_bebidas_vegetales>
+            <leche_entera>
+              <id>1</id>
+              <marca>ASTURIANA</marca>
+              <descripcion>Leche entera UHT brik 1 l</descripcion>
+              <precio_euros>1.14</precio_euros>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <medidas>litros</medidas>
+              <ingredientes>Leche entera de vaca</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </leche_entera>
+            <leche_semidesnata/>
+            <leche_desnatada/>
+          </leche_y_bebidas_vegetales>
+        </lacteos>
+        <lacteos>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </lacteos>
+      </productos>
+    </disponible_en>
+    <disponible_en>
+      <nombre>Mercadona</nombre>
+      <direccion>Cl. de Ayala, 89, 28006</direccion>
+      <ciudad>Madrid</ciudad>
+      <geolocalizacion>
+        <latitud>40.427414711621736</latitud>
+        <longitud>-3.6728044682140952</longitud>
+      </geolocalizacion>
+      <productos>
+        <alimentacion_general>
+          <aceites>
+            <aceites_de_oliva>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva>
+            <aceites_de_oliva_virgen>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen>
+            <aceites_de_oliva_virgen_extra>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_de_oliva_virgen_extra>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_de_oliva_virgen_extra>
+            <aceites_especialidades>
+              <id>1</id>
+              <marca>EL CORTE INGLES</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>5.35</precio_euros>
+              <medida>litro</medida>
+              <denominacion>ACEITE DE OLIVA. Contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <ingredientes>Ingredientes: Aceite de oliva refinado y aceite de oliva virgen extra.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>2</id>
+              <marca>CARBONELL</marca>
+              <descripcion>Aceite de oliva suave 0,4º botella 1 l</descripcion>
+              <precio_euros>8.3</precio_euros>
+              <medida>litro</medida>
+              <denominacion>Aceite De Oliva</denominacion>
+              <cantidad_neta>1000 Mililitros</cantidad_neta>
+              <ingredientes>Aceite de Oliva Refinado, Aceite de Oliva Virgen.</ingredientes>
+              <nombre_del_operador>DEOLEO GLOBAL, S.A.U.</nombre_del_operador>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+            <aceites_especialidades>
+              <id>3</id>
+              <marca>COOSUR</marca>
+              <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+              <precio_euros>6.99</precio_euros>
+              <medida>litro</medida>
+              <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+              <cantidad_neta> 1 Litros</cantidad_neta>
+              <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceites_especialidades>
+          </aceites>
+        </alimentacion_general>
+        <alimentacion_general>
+          <aceitunas_y_encurtidos>
+            <aceitunas_rellenas>
+              <id>1</id>
+              <marca>LA ESPAÑOLA</marca>
+              <descripcion>Aceitunas suaves rellenas de anchoa 35% menos de sal lata 150 g neto escurrido</descripcion>
+              <precio_euros>2.25</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas verdes rellenas de anchos Suaves</denominacion>
+              <cantidad_neta>350 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas manzanilla fina verdes aderezadas, , sal, relleno de anchoa 6%(anchoa, estabilizante: alginato sódico), potenciador del sabor:glutamato monosódico, acidulante: ácido cítrico, antioxidante:ácido ascórbico.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_rellenas>
+          </aceitunas_y_encurtidos>
+          <aceitunas_y_encurtidos>
+            <aceitunas_negras>
+              <id>1</id>
+              <marca>SERPIS</marca>
+              <descripcion>Aceitunas negras en rodajas frasco 150 g neto escurrido</descripcion>
+              <precio_euros>1.81</precio_euros>
+              <medida>gramos</medida>
+              <denominacion>Aceitunas negras en rodajas</denominacion>
+              <cantidad_neta>260 g</cantidad_neta>
+              <peso_neto_escurrido> 150 g</peso_neto_escurrido>
+              <ingredientes>Aceitunas negras en rodajas, sal, acidulantes (ácido láctico), estabilizante (lactato ferroso) y aromas naturales.</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje>5</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </aceitunas_negras>
+          </aceitunas_y_encurtidos>
+        </alimentacion_general>
+        <alimentacion_general>
+          <ofertas>
+            <id>3</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>5</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>6</id>
+            <marca>COOSUR</marca>
+            <descripcion>Aceite de oliva intenso 1º botella 1 l</descripcion>
+            <precio_euros>6.99</precio_euros>
+            <medida>litro</medida>
+            <denominacion> Aceite de oliva - contiene exclusivamente aceites de oliva refinados y aceites de oliva vírgenes</denominacion>
+            <cantidad_neta> 1 Litros</cantidad_neta>
+            <ingredientes>Aceite de oliva virgen y aceite de oliva refinado.</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </alimentacion_general>
+      </productos>
+      <productos>
+        <desayunos_dulces_pan>
+          <bolleria_y_pasteleria>
+            <magdalenas_y_mantecadas>
+              <id>1</id>
+              <marca>LA BELLA EASO</marca>
+              <descripcion>Magdalenas envasadas individualmente 16 unidades bolsa 464 g</descripcion>
+              <precio_euros>2.35</precio_euros>
+              <medida>gramos</medida>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </magdalenas_y_mantecadas>
+            <bolleria_artesana>
+              <id>1</id>
+              <marca>CALIDAD ARTESANA</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+            <bolleria_artesana>
+              <id>2</id>
+              <marca>AZCARAY</marca>
+              <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+              <precio_euros>5.99</precio_euros>
+              <cantidad_neta>452 g</cantidad_neta>
+              <medidas>gramos</medidas>
+              <oferta>
+                <activada>true</activada>
+                <porcentaje>2</porcentaje>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </bolleria_artesana>
+          </bolleria_y_pasteleria>
+        </desayunos_dulces_pan>
+        <desayunos_dulces_pan>
+          <ofertas>
+            <id>1</id>
+            <marca>CALIDAD ARTESANA</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>2</id>
+            <marca>AZCARAY</marca>
+            <descripcion>Palmeritas surtidas de yema y cacao 16 unidades bandeja 452 g</descripcion>
+            <precio_euros>5.99</precio_euros>
+            <cantidad_neta>452 g</cantidad_neta>
+            <medidas>gramos</medidas>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </desayunos_dulces_pan>
+      </productos>
+      <productos>
+        <lacteos>
+          <batidos>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </batidos>
+          <leche_y_bebidas_vegetales>
+            <leche_entera>
+              <id>1</id>
+              <marca>ASTURIANA</marca>
+              <descripcion>Leche entera UHT brik 1 l</descripcion>
+              <precio_euros>1.14</precio_euros>
+              <cantidad_neta>1 Litros</cantidad_neta>
+              <medidas>litros</medidas>
+              <ingredientes>Leche entera de vaca</ingredientes>
+              <oferta>
+                <activada>false</activada>
+                <porcentaje/>
+              </oferta>
+              <unidades>3</unidades>
+              <stock>true</stock>
+            </leche_entera>
+            <leche_semidesnata/>
+            <leche_desnatada/>
+          </leche_y_bebidas_vegetales>
+        </lacteos>
+        <lacteos>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+          <ofertas>
+            <id>1</id>
+            <marca>PULEVA</marca>
+            <descripcion>Batido de cacao pack 6 briks 200 ml</descripcion>
+            <precio_euros>2.7</precio_euros>
+            <cantidad_neta>1200 Mililitros</cantidad_neta>
+            <medidas>litros</medidas>
+            <ingredientes>Leche parcialmente desnatada al 1,2% MG (90%), azúcar, cacao (mínimo 0,9%), estabilizantes (E-407, E-460, E-466 y E-339), aroma y Vitamina D</ingredientes>
+            <oferta>
+              <activada>true</activada>
+              <porcentaje>2</porcentaje>
+            </oferta>
+            <unidades>3</unidades>
+            <stock>true</stock>
+          </ofertas>
+        </lacteos>
+      </productos>
+    </disponible_en>
+  </row>
+</root>
