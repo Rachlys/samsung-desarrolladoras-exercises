@@ -54,12 +54,9 @@ var Direccion = /** @class */ (function () {
         return this._provincia;
     };
     Direccion.prototype.getDireccion = function () {
-        var direccion = 'Mi calle es ' + this.getCalle() + ' con el numero ' + this.getNumero() + ' ' + this.getPiso() + ' ' + this.getLetra() + ' con el codigo postal ' + this.getCodigoPostal() + ' en la población ' + this.getPoblacion() + ' en ' + this.getProvincia();
-        console.log(direccion);
+        var direccion = ' Mi calle es ' + this.getCalle() + ' con el numero ' + this.getNumero() + ' ' + this.getPiso() + ' ' + this.getLetra() + ' con el codigo postal ' + this.getCodigoPostal() + ' en la población ' + this.getPoblacion() + ' en ' + this.getProvincia() + ' ';
         return direccion;
     };
     return Direccion;
 }());
 exports.Direccion = Direccion;
-var rominaDireccion = new Direccion("Lope de Rueda", 29, 0, "IZQ", 28009, "Madrid", "Comunidad de Madrid");
-rominaDireccion.getDireccion();

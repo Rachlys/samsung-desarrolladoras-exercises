@@ -68,9 +68,7 @@ export class Direccion{
 
 
     getDireccion() : string{
-        const direccion = 'Mi calle es ' + this.getCalle() + ' con el numero ' + this.getNumero() + ' ' + this.getPiso() + ' ' +  this.getLetra() + ' con el codigo postal ' + this.getCodigoPostal() + ' en la población ' + this.getPoblacion() + ' en ' + this.getProvincia()
-
-        console.log(direccion)
+        const direccion = ' Mi calle es ' + this.getCalle() + ' con el numero ' + this.getNumero() + ' ' + this.getPiso() + ' ' +  this.getLetra() + ' con el codigo postal ' + this.getCodigoPostal() + ' en la población ' + this.getPoblacion() + ' en ' + this.getProvincia() + ' '
         return direccion
     }
 }
