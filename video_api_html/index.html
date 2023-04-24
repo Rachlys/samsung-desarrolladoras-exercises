@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Reproductor de video</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	
+    <h1>Reproductor de video</h1>
+
+	<div class="form">
+		<label for="video_input">Selecciona un archivo de video:</label>
+		<input type="file" id="video_input">
+	</div>
+
+	<div class="reproductor">
+		<div id="reproductor_loading">Tu video se está subiendo</div>
+		<div id="reproductor_error">El archivo no es un video</div>
+		<video id="reproductor_video" controls autoplay loop></video>
+	</div>
+	
+    <script src="js/app.js"></script>
+
+</body>
+</html>
