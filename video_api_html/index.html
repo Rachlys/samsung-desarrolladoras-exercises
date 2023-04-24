@@ -18,9 +18,17 @@
 	<div class="reproductor">
 		<div id="reproductor_loading">Tu video se está subiendo</div>
 		<div id="reproductor_error">El archivo no es un video</div>
-		<video id="reproductor_video" controls autoplay loop></video>
+		<video id="reproductor_video" controls loop></video>
 	</div>
 	
+    <div class="buttons">
+        <button class="play" onclick="buttonPlay()"> Play </button>
+        <button class="stop" onclick="buttonStop()"> Pause </button>
+        <button class="subir_volumen" onclick="subirVolumen()"> Subir volumen </button>
+        <button class="bajar_volumen" onclick="bajarVoluemn()"> Bajar volumen </button>
+    
+    </div>
+
     <script src="js/app.js"></script>
 
 </body>
