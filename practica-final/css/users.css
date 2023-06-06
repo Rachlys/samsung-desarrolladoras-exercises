@@ -1,0 +1,113 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    vertical-align: baseline;
+  }
+
+
+/* ... excepto los que se encuentran en párrafos */
+p a {
+    display: inline;
+  }
+  
+  /* Quitamos los puntos de los <li> */
+  li {
+    list-style-type: none;
+  }
+  
+  /* Configuramos anclas suaves */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Desactivamos estilos por defecto de las principales etiquetas de texto */
+  h1, h2, h3, h4, h5, h6, p,a, strong, blockquote, i, b, u, em {
+    font-size: 1em;
+    font-weight: inherit;
+    font-style: inherit;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
+  body {
+    font-size: 100%;
+    line-height: 1.4em;
+    -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+            hyphens: auto;
+    font-smooth: always;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+.UserLayout{
+    margin: auto;
+    width: 80%;
+    margin-top: 3em;
+    display: flex;
+    flex-flow: row nowrap;
+    border-radius: 20px;
+    background: #ffffff;
+    box-shadow:  13px 13px 26px #d9d9d9,
+                -13px -13px 26px #ffffff;
+}
+
+.UserLayout__title{
+    background-image: url('../img/background.svg');
+    background-size: cover;
+    background-repeat: repeat;
+    border-radius: 20px 50px 50px 20px;
+    width: 50%;
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    padding: 2rem;
+    color: white;
+
+}
+
+.UserLayout__users--table{
+    display: none;
+    height: 10em;
+    overflow-x: hidden;
+}
+
+.UserLayout__users{
+    width: 80%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    gap: 1rem;
+    padding: 2rem;
+}
+.UserLayout__users--title{
+    display: flex;
+    justify-content: center;
+}
+.UserLayout__users--btn{
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d9d900;
+
+}
+.UserLayout__users--btn-svg{
+    cursor: pointer;
+    width:58px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.show{
+    display: block;
+}

@@ -1,0 +1,191 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+
+h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.FormLayout{
+    margin: auto;
+    width: 80%;
+    margin-top: 3em;
+    display: flex;
+    flex-flow: row nowrap;
+    border-radius: 20px;
+    background: #ffffff;
+    box-shadow:  13px 13px 26px #d9d9d9,
+                -13px -13px 26px #ffffff;
+}
+
+form{
+    width: 50%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem;
+    border-radius: 10px 0 0 10px ;
+}
+
+.FormLayout__visual{
+    background-image: url('../img/background.svg');
+    background-size: cover;
+    background-repeat: repeat;
+    border-radius: 50px 20px 20px 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    padding: 2rem;
+    color: white;
+
+}
+
+.FormLayout__visual--img{
+    display: block;
+    height: 2em;
+    width: auto;
+}
+
+.FormLayout__visual--title{
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+p:last-child{
+    font-size: 30px;
+}
+.input_label{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    gap: .5rem;
+    border: 1px solid #89909F;
+    border-radius: 20px;
+    padding: 1rem;
+    width: 20em;
+}
+
+span{
+    text-transform: uppercase;
+    font-size: 10px
+
+}
+
+/* input styles */
+input{
+    border: none;
+    background-color: #24665600;
+}
+
+input:focus{
+    outline: none;
+}
+
+input::placeholder{
+    color: grey;
+}
+
+.button {
+    border: none;
+    padding: 1rem;
+    width: 150px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    pointer-events: none;
+    border-radius: 15px;
+  }
+
+  .button::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    transition: all 0.25s ease;
+  }
+  
+  .button::before {
+    content: 'Registrate';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: white;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    transition: all 0.25s ease;
+    border-radius: 15px;
+    margin-left: -100%;
+    box-shadow: inset 0 0 0 150px #FA6869;
+  }
+  
+
+.button.active::before{
+    cursor: pointer;
+    pointer-events: all;
+    margin-left: 0;
+
+}
+
+.wrong_label{
+    border: 1px solid red;
+}
+
+.correct_label{
+    border: 1px solid green;
+
+}
+
+
+
+/* ... excepto los que se encuentran en párrafos */
+p a {
+  display: inline;
+}
+
+/* Quitamos los puntos de los <li> */
+li {
+  list-style-type: none;
+}
+
+/* Configuramos anclas suaves */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Desactivamos estilos por defecto de las principales etiquetas de texto */
+h1, h2, h3, h4, h5, h6, p,a, strong, blockquote, i, b, u, em {
+  font-size: 1em;
+  font-weight: inherit;
+  font-style: inherit;
+  text-decoration: none;
+  color: inherit;
+}
+
+
+body {
+  font-size: 100%;
+  line-height: 1.4em;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  font-smooth: always;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
